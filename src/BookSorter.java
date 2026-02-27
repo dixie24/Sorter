@@ -36,6 +36,7 @@ public class BookSorter {
         books.add("Собачье сердце — Михаил Булгаков");
         books.add("Золотой теленок — Ильф и Петров");
         books.add("Капитанская дочька");
+        books.add("Ак кеме");
 
         System.out.println("=== Библиотека до сортировки ===");
         printBooks(books);
