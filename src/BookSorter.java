@@ -37,7 +37,8 @@ public class BookSorter {
         books.add("Золотой теленок — Ильф и Петров");
         books.add("Капитанская дочька");
         books.add("Ак кеме");
-        books.add("1984- George O.")
+        books.add("1984- George O.");
+        books.add("Deagle - Orean C.");
 
         System.out.println("=== Библиотека до сортировки ===");
         printBooks(books);
