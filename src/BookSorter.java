@@ -36,6 +36,7 @@ public class BookSorter {
         System.out.println("=== Библиотека до сортировки ===");
         printBooks(books);
 
+
         // Магия сортировки одной строкой!
         Collections.sort(books);
 

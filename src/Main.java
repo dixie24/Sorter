@@ -1,4 +1,4 @@
-public class BubbleSort {
+public class Main {
     public static void main(String[] args) {
         // Наш массив для проверки
         int[] numbers = {64, 34, 25, 12, 22, 11, 90};
