@@ -39,6 +39,7 @@ public class BookSorter {
         books.add("Ак кеме");
         books.add("1984- George O.");
         books.add("Deagle - Orean C.");
+        books.add("White plane");
 
         System.out.println("=== Библиотека до сортировки ===");
         printBooks(books);
