@@ -31,15 +31,7 @@ public class BookSorter {
         books.add("Алхимик — Пауло Коэльо");
         books.add("Идиот — Федор Достоевский");
         books.add("Джейн Эйр — Шарлотта Бронте");
-        books.add("Вишневый сад — Антон Чехов");
-        books.add("Отцы и дети — Иван Тургенев");
-        books.add("Собачье сердце — Михаил Булгаков");
-        books.add("Золотой теленок — Ильф и Петров");
-        books.add("Капитанская дочька");
-        books.add("Ак кеме");
-        books.add("1984- George O.");
-        books.add("Deagle - Orean C.");
-        books.add("White plane");
+
 
         System.out.println("=== Библиотека до сортировки ===");
         printBooks(books);
@@ -54,6 +46,7 @@ public class BookSorter {
     private static void printBooks(List<String> list) {
         for (String book : list) {
             System.out.println("- " + book);
+            System.out.println("---");
         }
     }
 }
