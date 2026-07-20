@@ -28,7 +28,7 @@ public class BookSorter {
         books.add("Илиада — Гомер");
         books.add("Граф Монте-Кристо — Александр Дюма");
         books.add("Три товарища — Эрих Мария Ремарк");
-
+        books.add("f");
 
 
         System.out.println("=== Библиотека до сортировки ===");
